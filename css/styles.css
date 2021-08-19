@@ -13,7 +13,9 @@ html {
 
 .container {
     display: flex;
+    align-items: center;
     justify-content: center;
+    height: 100vh;
     padding: 15px;
     border: 1px solid darkgray;
 }
